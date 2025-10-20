@@ -1,9 +1,7 @@
-pip
 streamlit==1.50.0
 streamlit-webrtc==0.47.1
 opencv-python
 opencv-python-headless==4.10.0.84
 ultralytics==8.2.74
-av --no-binary av
 torch==2.3.1
 torchvision==0.18.1
