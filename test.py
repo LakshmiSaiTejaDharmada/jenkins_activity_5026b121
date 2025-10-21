@@ -1,13 +1,3 @@
-"""
-app.py — Streamlit YOLO video processor with crosshair + CSV + live chart
-
-Requirements:
-    pip install streamlit opencv-python-headless ultralytics pandas
-
-Your custom YOLO model path is fixed:
-    C:/Users/SRG Project/venv1/Project1/SFM/runsv1/detect/train11/weights/best.pt
-"""
-
 import streamlit as st
 import cv2
 import numpy as np
