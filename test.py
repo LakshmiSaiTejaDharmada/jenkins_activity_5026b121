@@ -10,7 +10,7 @@ from ultralytics import YOLO
 # ============================================================
 # CONFIG
 # ============================================================
-MODEL_PATH = r"C:\Users\SRG Project\venv1\Project1\SFM\runsv1\detect\train11\weights\best.pt"
+MODEL_PATH = "best.pt"
 
 st.set_page_config(page_title="YOLO Video Processor", layout="wide")
 
